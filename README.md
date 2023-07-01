@@ -7,7 +7,7 @@
 ## 1. About Me
 
 
--  All of my projects are available at **[My Portfolio](https://portfolio-101.vercel.app/)**
+-  All of my projects are available at **[My Portfolio](https://abdullahshams-portfolio.vercel.app/)**
 
 - 📫 How to reach me **shamsabdullah318@gmail.com**
 
@@ -39,7 +39,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/abdullah-khan-278aa0233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/abdullah-shams/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://wa.me/923323876075">
 <img src="https://img.icons8.com/color/48/000000/whatsapp--v4.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100028841142122"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
