@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdullah</h1>
-<h3 align="center">I'm a self-learned and creative MERN Stack Developer.</h3>
+<h3 align="center">I'm a self-learned and creative Front-end Developer.</h3>
 
 
 <br />
